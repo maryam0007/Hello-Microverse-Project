@@ -107,6 +107,13 @@ Once the repository has been cloned, you should see a new directory with the sam
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Improve visual design]**
+- [ ] **[Add responsiveness]**
+- [ ] **[Add animations in the design]**
+
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Feel free to check the [issues page](https://github.com/maryam0007/Hello-Microverse-Project/issues).
@@ -118,3 +125,8 @@ If you like this project feel free to fork it or star it
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 Thanks Microverse, learn how to code > [Join Microverse](https://www.microverse.org/?grsf=9m3hq6)
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
